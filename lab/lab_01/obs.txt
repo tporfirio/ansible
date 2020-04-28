@@ -1,2 +1,2 @@
-O lab se refere à um arquivo para ser importado para o EVE-NG.
+O lab se refere à um arquivo para ser importado para o eve-ng.
 Esste lab está com apenas configurações de SSH inseridas para poder brincar com o Ansible.
